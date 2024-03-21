@@ -1,4 +1,4 @@
-MyStore Automated Tests - https://mystore-testlab.coderslab.pl/index.php?
+MyStore Automated Tests - https://mystore-testlab.coderslab.pl/index.php?  
 Selenium WebDriver + Cucumber
 
    ** Test 1 (Zadanie1)**
